@@ -3,7 +3,7 @@
 7 types : String, Number, Boolean, Null, Undefined, Symbol, BigInt
 
 Non primitive Datatypes (Reference)
-Arrays, Objects, Functions
+=> Arrays, Objects, Functions
 
 */
 
